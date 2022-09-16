@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aada48ed-1fb2-4e33-b2fc-61a5147ceebf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +24,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/alex-/Desktop/Dev/SoftwareSeguro/Aulas",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/alex-/Desktop/Dev/Java/SoftwareSeguro/Aulas",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>

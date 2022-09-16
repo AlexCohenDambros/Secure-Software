@@ -10,8 +10,12 @@ public class MenuView {
     }
 
     public int escolhaMenu(){
-        System.out.println("========== MENU ==========" + "\n" + "1 - Cadastrar usuario" + "\n" + "2 - Listar Usuarios" + "\n" + "9 - Sair" + "\n" + "Digite uma opcao: ");
+        System.out.println("""
+                ========== MENU ==========
+                1 - Cadastrar usuario
+                2 - Listar Usuarios
+                9 - Sair
+                Digite uma opcao:\s""");
         return sc.nextInt();
     }
-
 }

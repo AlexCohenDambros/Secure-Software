@@ -24,12 +24,12 @@ public class AutenticacaoView {
     }
 
     public void usuarioAutenticado() {
-        System.out.println("Usuario Autenticado");
-        MenuController menu = new MenuController();
+        System.out.println("\nUsuario Autenticado");
+        new MenuController();
     }
 
     public void usuarioNaoAutenticado() {
-        System.out.println("Usuario Não Autenticado");
+        System.out.println("\nUsuario Nao Autenticado");
     }
 
 
