@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aada48ed-1fb2-4e33-b2fc-61a5147ceebf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b2f7dda53049ac850d0ff37d382f82394aa3276" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e0a0c0e61cf2a4ba7921280d06a53dd1a8b7ce2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/src/Main.java" afterDir="false" />
     </list>
+    <list id="4ba16650-a9b9-4167-9914-39f43c89e10e" name="Changes by mathe" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/alex-/Desktop/Dev/Java/SoftwareSeguro/Aulas",
+    "last_opened_file_path": "C:/Users/alex-/Desktop/Dev/SoftwareSeguro/Aulas",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",

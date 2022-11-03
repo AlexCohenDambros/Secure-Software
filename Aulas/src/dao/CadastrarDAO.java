@@ -17,8 +17,17 @@ public class CadastrarDAO {
 
     public Boolean insertUser(Usuario u) {
         try {
-            String query = "INSERT INTO pessoa (email, senha) VALUES ('" + u.getEmail() + "', '" + u.getSenha() + "')";
+//            Errado
+//            String query = "INSERT INTO pessoa (email, senha) VALUES ('" + u.getEmail() + "', '" + u.getSenha() + "')";
+//
+//            ps = conexao.getConexao().prepareStatement(query);
+
+//             CERTO
+            String query = "INSERT INTO pessoa (email, senha) VALUES (?,?)";
             ps = conexao.getConexao().prepareStatement(query);
+            ps.setString(1, u.getEmail());
+            ps.setString(2, u.getSenha());
+
 
             ps.execute();
 
